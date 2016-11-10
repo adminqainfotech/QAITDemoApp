@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "1082948726299",
-    "firebase_url": "https://myapplication2-8ae8f.firebaseio.com",
-    "project_id": "myapplication2-8ae8f",
-    "storage_bucket": "myapplication2-8ae8f.appspot.com"
+    "project_number": "419515825603",
+    "firebase_url": "https://demoapplication-5f90b.firebaseio.com",
+    "project_id": "demoapplication-5f90b",
+    "storage_bucket": "demoapplication-5f90b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1082948726299:android:038025162ad790a6",
+        "mobilesdk_app_id": "1:419515825603:android:038025162ad790a6",
         "android_client_info": {
           "package_name": "com.qait.myapplication"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1082948726299-rs11kg39jissngaenaavvsvjqkjlbu3j.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.qait.myapplication",
-            "certificate_hash": "C0FF4A8C6965001969A08D79000832412A715B11"
-          }
-        },
-        {
-          "client_id": "1082948726299-ctt1rq8v2ciqlj5a06vcj4q8970ntr5g.apps.googleusercontent.com",
+          "client_id": "419515825603-l4k84gl5io1l044hp8uvsitrurq6rc5k.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDV1Q91nGGox9LSDBQqezjPNfn4TxAz3Nw"
+          "current_key": "AIzaSyCK-LVAjZGyGK1hyl5XX_j26j_G7TG7YXg"
         }
       ],
       "services": {
@@ -37,57 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1082948726299-ctt1rq8v2ciqlj5a06vcj4q8970ntr5g.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:1082948726299:android:c89f8dc7336ee34a",
-        "android_client_info": {
-          "package_name": "com.qait.demoapplication"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "1082948726299-esnb2kb5vor3jg3t90u99967req4247s.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.qait.demoapplication",
-            "certificate_hash": "C0FF4A8C6965001969A08D79000832412A715B11"
-          }
-        },
-        {
-          "client_id": "1082948726299-ctt1rq8v2ciqlj5a06vcj4q8970ntr5g.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDV1Q91nGGox9LSDBQqezjPNfn4TxAz3Nw"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1082948726299-ctt1rq8v2ciqlj5a06vcj4q8970ntr5g.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
